@@ -1,2 +1,4 @@
 HELLO WELCOME TO GIT. I AM LEARNING THE GIT TOOL FOR SOFTWARE CONFIGURATION ASSIGNMENT.this is namitha
 git is a distributed scm tool. preethi and namitha
+
+hlooo this is namitha
